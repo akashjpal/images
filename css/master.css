@@ -77,7 +77,7 @@ button{
 /* Booking */
 
 .booking{
-  background-color: #B1D7B4;
+  background-color: lightgreen;
   text-align: center;
 }
 
@@ -100,10 +100,24 @@ button{
 .footer{
   padding:7% 15%;
   text-align: center;
+  color: white;
+  background-color: green;
 }
-.media{
-  color: green;
-}
-.icon{
+.footer-icon{
+  color: white;
   margin: 3% 5%;
+}
+
+
+/* Explore Section */
+
+/* Newsletter subscription */
+.newsletter{
+  color: #F7A76C;
+  font-size: 2rem;
+}
+
+.faqs{
+  background-color: #F7A76C;
+  font-size: 2rem;
 }
